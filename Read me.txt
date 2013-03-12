@@ -1,0 +1,119 @@
+Cheese's 1.1 Zombie Mod
+Server-side
+
+
+
+1. About
+2. Features
+3. Installation/Uninstallation
+4. Changelog
+5. Credits/contact
+
+
+
+
+1. ABOUT
+I made this mod as an attempt to automate the "Zombies" gametype we used to play on Ps||Clanserver. It required the admins to be around and be completely in control of the game, making sure when players died they switched to the right teams, etc. This replaces that and makes it so that the admins just change to a new gametype ("zom") and the mod does the rest!
+
+To start, install the mod on your server. Then do "/rcon g_gametype zom" followed by "/rcon map_restart" or change to a new map.
+
+That's it! Simple, eh?
+
+
+
+
+2. FEATURES
+	- Classic Zombies vs. Hunters
+	- Zombies are Russian, Hunters are German
+	- Random Zombie is picked at the beginning, otherwise last Hunter from the previous 
+	  round is the first Zombie
+	- Hunters can't shoot while there is only one Zombie
+	- Zombies can't shoot, they must bash
+	- Zombie perks such as "Mega jump", "super speed", and "poison"
+	- Hunters are allowed MG's
+	- No MG42's
+	- HUD stats
+	- "Game Cam" at the end of the game
+	- Best Zombie, Hunter, most kills, bashes and headshots at the end of the game
+	- Freaking intense fog
+	- Darkness!
+	- Last Hunter at the end of the game becomes a "super hunter" and wields
+	  a Thompson and a Panzerfaust
+	- NO DOWNLOADING! :D
+	- Complete gametype, works with other mods.
+
+
+
+
+3. INSTALLATION/UNINSTALLATION
+
+Installing:
+Simply place the ___Zombais.pk3 in your server's Main/ folder.
+
+Uninstalling:
+Simply remove the pk3 from your server's Main/ folder.
+
+
+
+
+4. CHANGELOG
+
+5/7/10 - version 0.6
+	[A] Pain sounds when hit
+	[A] Logo in bottom right hand corner :D
+	[F] Glitch that allowed hunters that threw a nade to kill other hunters when they became zombies
+	[F] Glitch which prevented ending of game and other threads
+	[U] Map voting now includes maps which aren't in the server's rotation
+	[F] Bug with HUD where some elements would not be dimmed by "darkness"
+	[A] Limited panzerfaust on "super hunter"
+	[A] New HUD stats and health
+
+Previous versions
+	~ 0.5
+	[F] Poison zombie glitches
+
+	~ 0.4
+	[A] Poison zombie perk
+	[F] Various glitches
+	[A] Hunters who just died will respawn where they died as zombies
+
+	~ 0.3
+	[A] Speed zombie perk
+	[F] Game cam not removing hud at the end
+	[A] Last hunter becomes "super hunter" and has a thompson/panzerfaust
+	[F] Removed MG42 to prevent zombies from using it :/
+
+	~ 0.2
+	[F] Bug where hunters could shoot after there were two zombies and one left
+	[A] "Jumping" zombie perk
+	[U] Made fog a bit cooler
+
+	~ 0.1
+	[A] Zombies gametype!
+	[A] Removes hunter's ammo while there is only one zombie
+	[A] Removes zombie's ammo
+	[A] "Best scores" at the end of the game
+	[A] Game cam at the end before "best scores"
+	[A] Lots of fog
+	[A] Ammoboxes
+
+
+
+
+5. CREDITS/CONTACT
+
+Credits:
+	Crazypanzer, Project, Cockles, and the rest of Ps - for helping with ideas
+	and hosting/testing the mod!
+	Brax - for using his "Game cam" and "Mega jump" code
+	All the testers on the server
+	
+Contact:
+	Xfire - thecheeseman999
+	Steam - thecheeseman999
+	Email - firstact001@yahoo.com
+	MSN - thecheeseman@live.com
+
+
+
+Thanks for downloading!
